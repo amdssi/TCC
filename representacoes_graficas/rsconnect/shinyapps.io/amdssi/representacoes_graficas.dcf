@@ -1,0 +1,12 @@
+name: representacoes_graficas
+title: representacoes_graficas
+username: amdssi
+account: amdssi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15357688
+bundleId: 10871153
+url: https://amdssi.shinyapps.io/representacoes_graficas/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
